@@ -1,6 +1,6 @@
 export default function HomePage() {
     const nombreTienda = "BBudgets";
-    const cantidadProductos = 24;
+    const cantidadProductos = 20;
 
     return (
         <div>
